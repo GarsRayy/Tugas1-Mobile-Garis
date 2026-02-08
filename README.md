@@ -1,4 +1,4 @@
-<img width="274" height="550" alt="Cuplikan layar 2026-02-08 185100" src="https://github.com/user-attachments/assets/9008356f-613e-47b9-98ab-6c9f76f9555a" /># Tugas 1 Pengembangan Aplikasi Mobile
+# Tugas 1 Pengembangan Aplikasi Mobile
 
 **Identitas Mahasiswa:**
 * **Nama:** Garis Rayya Rabbani
