@@ -2,7 +2,7 @@
 
 **Identitas Mahasiswa:**
 * **Nama:** Garis Rayya Rabbani
-* **NIM:** 123140018  <-- (Isi NIM Asli Kamu)
+* **NIM:** 123140018  
 * **Kelas:** Pengembangan Aplikasi Mobile RB
 
 ## Deskripsi Tugas
